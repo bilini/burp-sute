@@ -1,3 +1,3 @@
 # burp-sute
 portswigger (web security)
-cloning burp-sute in brouse https://portswigger.net/burp
+downalds burp-sute in brouse https://portswigger.net/burp
